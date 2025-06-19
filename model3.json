@@ -1,0 +1,20 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "fools_bianca.moc3",
+    "Textures": [
+      "fools_bianca.png"
+    ],
+    "Atlas": "fools_bianca.atlas",
+    "Physics": null,
+    "Pose": null
+  },
+  "Groups": [],
+  "HitAreas": [],
+  "Layout": {
+    "center_x": 0,
+    "center_y": 0,
+    "width": 2.0,
+    "height": 2.0
+  }
+}
